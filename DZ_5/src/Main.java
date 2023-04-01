@@ -14,7 +14,7 @@ public class Main {
         System.out.println(sum1 > sum2);
 /* Збільшує першу суму на 1*/
 
-        ++sum1;
+
         int plus = ++sum1;
         System.out.println(plus);
       /* або написати просто так  System.out.println(sum1++);*/
