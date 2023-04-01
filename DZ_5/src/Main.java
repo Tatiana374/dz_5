@@ -25,7 +25,7 @@ public class Main {
 
      /*Виводить результат порівняння (true якщо перша сума більша).*/
 
-        System.out.println(plus >= minus);
+        System.out.println(plus > minus);
 
 /*Виводить true якщо хоча б одна сума кратна 2, інакше - false*/
 
